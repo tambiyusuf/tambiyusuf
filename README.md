@@ -19,7 +19,9 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" height="40" alt="pytorch"  />
   <img width="12" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" height="40" alt="opencv"  />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" height="50" alt="opencv"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" alt="cpp"  />
   <img width="12" />
 
 </div>
