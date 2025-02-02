@@ -15,11 +15,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" height="40" alt="python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" height="40" alt="pytorch"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.svg" height="40" alt="opencv"  />
   <img width="12" />
 
 </div>
