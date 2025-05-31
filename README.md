@@ -1,36 +1,58 @@
 # tambiyusuf
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=blue&link=link)](https://medium.com/@yusufcangir)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=blue&link=link)](https://www.linkedin.com/in/yusufcangir/) 
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=blue&link=link)](https://www.kaggle.com/josecode1)
-###
+<p align="center">
+  <a href="https://medium.com/@yusufcangir">
+    <img src="https://img.shields.io/badge/Medium-757575?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yusufcangir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/josecode1">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
-<h3 align="left">Language/Tools/Frameworks</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tambiyusuf&style=flat-square" alt="profile views" />
+</p>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="50" alt="python"  />
-  <img width="15" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="cpp"  />
-  <img width="15" />
-  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" height="50" alt="pytorch"  />
-  <img width="15" />
-  <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" height="50" alt="opencv"  />
-  <img width="15" />
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" height="50" alt='pandas'/>
-  <img width='15' />
-  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="50" alt='numpy'/>
-  <img width='15' />
-  <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" height="50" alt='flask'/>
-  <img width='15' />
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="50" alt='scikit_learn'/>
-  <img width='15' />
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="50" alt='mongodb'/>
-  <img width='15' />
+## About Me
+
+👋 Hi, I'm Yusuf CanGir — an **AI Developer** passionate about building scalable, real-world solutions with deep learning, computer vision, and data-driven systems.  
+I enjoy solving challenging problems, collaborating in tech communities, and continuously learning new technologies.  
+I have hands-on experience with Python, PyTorch, OpenCV, and modern ML frameworks.  
+Currently, I'm focused on bringing AI into production in innovative and impactful ways.
+
+<br/>
+
+<div align="center">
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="38" alt="python" />
+  <img width="8"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="38" alt="cpp" />
+  <img width="8"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="38" alt="java" />
+  <img width="8"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" height="38" alt="pytorch" />
+  <img width="8"/>
+  <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" height="38" alt="opencv" />
+  <img width="8"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" height="38" alt="pandas"/>
+  <img width="8"/>
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="38" alt="numpy"/>
+  <img width="8"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" height="38" alt="flask"/>
+  <img width="8"/>
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="38" alt="scikit-learn"/>
+  <img width="8"/>
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="38" alt="mongodb"/>
+  <img width="8"/>
 </div>
 
-###
+<br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tambiyusuf&show_icons=true&theme=radical&count&private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tambiyusuf&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+</p>
 
