@@ -20,7 +20,7 @@
 
 ## About Me
 
-👋 Hi, I'm Yusuf CanGir — an **AI Developer** passionate about building scalable, real-world solutions with deep learning, computer vision, and data-driven systems.  
+👋 I'm Yusuf Cangir — an **AI Developer** passionate about building scalable, real-world solutions with deep learning, computer vision, and data-driven systems.  
 I enjoy solving challenging problems, collaborating in tech communities, and continuously learning new technologies.  
 I have hands-on experience with Python, PyTorch, OpenCV, and modern ML frameworks.  
 Currently, I'm focused on bringing AI into production in innovative and impactful ways.
