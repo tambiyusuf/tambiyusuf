@@ -1,5 +1,7 @@
-# tambiyusuf
-
+<h1 align="center">Hi, I'm Yusuf Cangir 👋</h1>
+<p align="center">
+  <b>AI & Computer Vision Developer &nbsp;|&nbsp; Backend Engineer &nbsp;|&nbsp; Content Creator</b>
+</p>
 <p align="center">
   <a href="https://medium.com/@yusufcangir">
     <img src="https://img.shields.io/badge/Medium-757575?style=for-the-badge&logo=medium&logoColor=white" />
@@ -10,53 +12,87 @@
   <a href="https://www.kaggle.com/josecode1">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@yusufcangirx0">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tambiyusuf&style=flat-square" alt="profile views" />
 </p>
 
-<br/>
+🧑‍💻 About Me
+I'm a Computer Engineering graduate who builds production-ready systems across multiple domains — from real-time computer vision pipelines for defense & aerospace applications to scalable backend architectures powering SaaS products.
+What sets my work apart is technical breadth with depth: I've shipped solutions using embedded CV on GPU hardware (ONNX Runtime, TensorRT), designed clean REST APIs with .NET Core, trained and deployed deep learning models end-to-end, and analyzed complex datasets for research projects — often within the same product cycle.
 
-## About Me
+🎯  Targeting defense sector roles (autonomous systems, CV pipelines, embedded AI) <br>
+🛠️  Experienced backend developer — .NET Core, Clean Architecture, PostgreSQL, MongoDB <br>
+🤖  Working with YOLOv8, TensorRT, OpenCV C++, Qt6 for real-time detection systems <br>
+📊  Conducting TÜBİTAK-funded research on ML-based vehicle price prediction <br>
+📝  Sharing technical insights on YouTube & Medium — analysis-first, not tutorial-first <br>
 
-👋 I'm Yusuf Cangir — an **AI Developer** passionate about building scalable, real-world solutions with deep learning, computer vision, and data-driven systems.  
-I enjoy solving challenging problems, collaborating in tech communities, and continuously learning new technologies.  
-I have hands-on experience with Python, PyTorch, OpenCV, and modern ML frameworks.  
-Currently, I'm focused on bringing AI into production in innovative and impactful ways.
 
-<br/>
-
-<div align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="38" alt="python" />
-  <img width="8"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="38" alt="cpp" />
-  <img width="8"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="38" alt="java" />
-  <img width="8"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" height="38" alt="pytorch" />
-  <img width="8"/>
-  <img src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" height="38" alt="opencv" />
-  <img width="8"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" height="38" alt="pandas"/>
-  <img width="8"/>
-  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="38" alt="numpy"/>
-  <img width="8"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" height="38" alt="flask"/>
-  <img width="8"/>
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="38" alt="scikit-learn"/>
-  <img width="8"/>
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="38" alt="mongodb"/>
-  <img width="8"/>
+🛠️ Tech Stack
+AI / ML / Computer Vision
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch" title="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="OpenCV" title="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy" title="NumPy" />
 </div>
-
 <br/>
-
+Systems / Backend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" title="C#" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt=".NET Core" title=".NET Core" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask" title="Flask" />
+</div>
+ <br>  <br>  <br>
+📊 GitHub Stats
 <div align="center">
   <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tambiyusuf&show_icons=true&theme=radical&count_private=true&hide_title=true" width="375"/> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tambiyusuf&layout=compact&theme=radical" width="300"/> </td>
-  </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-three-nu-38.vercel.app/api?username=tambiyusuf&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-three-nu-38.vercel.app/api/top-langs/?username=tambiyusuf&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
   </table>
 </div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tambiyusuf&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+✍️ Content & Writing
+I produce analytical technical content — not step-by-step tutorials, but deep-dives into real problems: why something breaks, how I benchmarked it, what the tradeoffs actually are.
+<br/>
+📺  YouTube  →  youtube.com/@yusufcangirx0
+       AI/ML concepts explained through real experiments and benchmarks
+<br/>
+📰  Medium  →  @yusufcangir
+       Written technical analyses & deep-dive breakdowns
+
+<p align="center">
+  <i>"Build things that work at the system level — not just in the notebook."</i>
+</p>
